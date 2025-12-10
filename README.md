@@ -63,3 +63,12 @@ make
 ```
 
 ## Grade
+<p align="center">
+<img width="236" height="166" alt="Screenshot from 2025-12-10 19-46-18" src="https://github.com/user-attachments/assets/32d3f061-f313-42fa-97c2-a14c7137ec9c"/>
+</p>
+
+
+
+<p align="center">
+<sub>With Bonus</sub>
+</p>
