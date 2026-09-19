@@ -52,7 +52,6 @@ _A pseudocode can be simply:_
 
 ```
 git clone github.com/shoganaix/42Cub3d
-
 ```
 
 2. Compile and run your program:
