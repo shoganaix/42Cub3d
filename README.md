@@ -51,7 +51,7 @@ _A pseudocode can be simply:_
 1. Clone this repository:
 
 ```
-git clone github.com/shoganaix/Cub3d
+git clone github.com/shoganaix/42Cub3d
 
 ```
 
